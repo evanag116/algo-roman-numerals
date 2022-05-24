@@ -23,10 +23,3 @@ def to_roman(num):
 
     return res
 
-
-
-
-
-
-
-print(to_roman(1994))
